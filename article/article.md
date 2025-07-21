@@ -25,7 +25,7 @@ title: 'Title'
 toc: true
 
 # LaTeX
-abstract-title: 'Abstract'
+abstract-title: 'Abstract Demo Dino'
 beamerarticle: # produce an article from Beamer slides
 classoption: # option for document class, e.g. oneside (a list).
 documentclass: scrartcl # document class: usually one of the standard classes, article, book, and report; the KOMA-Script equivalents, scrartcl, scrbook, and scrreprt, which default to smaller margins; or memoir
@@ -38,7 +38,7 @@ header-includes: # contents specified by -H/--include-in-header (may have multip
   - |
     ```{=latex}
     % keep figures where there are in the text
-    \usepackage{float} 
+    \usepackage{float}
     \floatplacement{figure}{H}
     ```
   - |
@@ -84,15 +84,15 @@ description: # document description, included in ODT, docx and pptx metadata. So
 subject: # document subject, included in ODT, PDF, docx, EPUB, and pptx metadata
 ---
 
-# Heading 1
+# Heading 1 Dino
 
 All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights.
 
-## Heading 2
+## Heading 2 Lupo
 
 All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights.
 
-### Heading 3
+### Heading 3 Ciao
 
 All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights. All human beings are born free and equal in dignity and rights.
 
